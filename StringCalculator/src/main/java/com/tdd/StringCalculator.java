@@ -1,4 +1,4 @@
-package com.example;
+package com.tdd;
 public class StringCalculator {
     public int add(String numbers) {
         if (numbers.length() < 2) {

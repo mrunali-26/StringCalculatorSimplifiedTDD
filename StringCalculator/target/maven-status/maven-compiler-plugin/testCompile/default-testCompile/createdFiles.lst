@@ -1,2 +1,2 @@
-com\example\AppTest.class
-com\example\StringCalculatorTest.class
+com\tdd\AppTest.class
+com\tdd\StringCalculatorTest.class
